@@ -1,0 +1,40 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+.dsmovie-nav-content h1 {
+    margin: 0;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.dsmovie-link-container {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.dsmovie-link-container:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color: #FFF;
+}
+
+.dsmovie-contact-container {
+    display: flex;
+    align-items: center;
+}
+
+.ds-movie-contact-link {
+    margin: 0 10px;
+    font-size: 16px;
+}
