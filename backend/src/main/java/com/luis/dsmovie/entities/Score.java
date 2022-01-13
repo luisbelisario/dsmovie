@@ -1,4 +1,4 @@
-package com.luis.dsmovie.entties;
+package com.luis.dsmovie.entities;
 
 import javax.persistence.EmbeddedId;
 import javax.persistence.Entity;

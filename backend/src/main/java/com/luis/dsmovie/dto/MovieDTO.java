@@ -1,6 +1,6 @@
 package com.luis.dsmovie.dto;
 
-import com.luis.dsmovie.entties.Movie;
+import com.luis.dsmovie.entities.Movie;
 
 public class MovieDTO {
 	
